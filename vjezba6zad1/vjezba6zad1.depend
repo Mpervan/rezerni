@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1589590440 source:c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\main.cpp
+	<fstream>
+	<iostream>
+	<iterator>
+	<vector>
+	<sstream>
+	"library.hpp"
+
+1589053955 source:c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\knjige.cpp
+	<iostream>
+	<string>
+	"knjige.hpp"
+
+1589590719 c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\knjige.hpp
+	<iostream>
+	<string>
+
+1589591252 source:c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\hardcopy.cpp
+	<iostream>
+	<string>
+	"hardcopy.hpp"
+
+1589591252 c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\hardcopy.hpp
+	<string>
+	"knjige.hpp"
+
+1589591908 source:c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\ebook.cpp
+	<iostream>
+	<string>
+	"ebook.hpp"
+
+1589591908 c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\ebook.hpp
+	<string>
+	"hardcopy.hpp"
+
+1589590440 c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\library.hpp
+	<string>
+	<vector>
+	"ebook.hpp"
+
+1589591922 source:c:\users\matea\documents\facks\objektno 2020\vjezba6\vjezba6zad1\library.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	"Library.hpp"
+
