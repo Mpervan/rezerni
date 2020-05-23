@@ -1,0 +1,6 @@
+﻿  ebook.cpp
+  hardcopy.cpp
+  library.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Matea\Documents\facks\objektno 2020\vjezba6\vjezba6zad1rez\knjige.hpp(15): error C4716: 'Book::getgodina': must return a value
