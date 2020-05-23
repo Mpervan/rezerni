@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1589666612 source:c:\users\matea\documents\facks\objektno 2020\vjezba 6\vjezba6zad2\main.cpp
+	<iostream>
+	"igracljud.hpp"
+
+1589665204 source:c:\users\matea\documents\facks\objektno 2020\vjezba 6\vjezba6zad2\igrac.cpp
+
+1589666009 c:\users\matea\documents\facks\objektno 2020\vjezba 6\vjezba6zad2\igracljud.hpp
+	<iostream>
+	<vector>
+	"igrac.hpp"
+
+1589665537 c:\users\matea\documents\facks\objektno 2020\vjezba 6\vjezba6zad2\igrac.hpp
+	<iostream>
+	<vector>
+
+1589667316 source:c:\users\matea\documents\facks\objektno 2020\vjezba 6\vjezba6zad2\igrackomp.cpp
+	<iostream>
+	<vector>
+	"igrackomp.hpp"
+
+1589667274 c:\users\matea\documents\facks\objektno 2020\vjezba 6\vjezba6zad2\igrackomp.hpp
+	<iostream>
+	<vector>
+	"igracljud.hpp"
+
